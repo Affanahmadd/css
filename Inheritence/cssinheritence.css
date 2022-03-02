@@ -1,0 +1,29 @@
+*{
+    background-color: lightcyan;
+}
+div  {
+    font-size: 30px;
+    background-color: lightslategrey;
+}
+.cl1{
+    background-color: lightcoral;
+}
+.cl1{
+    font-size: 30px;
+}
+#div1{
+    background-color: lightseagreen;
+}
+/* In Above the Order of Precendence  */
+
+
+
+#div1{
+    background-color: lightsteelblue;
+    /*In CSS if write the same code twice
+    so the code that written on latest time 
+    will take precendence over previous code*/
+}
+.cl1{
+    background-color: lightskyblue;
+}

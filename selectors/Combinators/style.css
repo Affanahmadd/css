@@ -1,0 +1,20 @@
+/*This is aadjacent sibling combinator*/
+/* this work only below one not all of these*/
+h2+p{
+    color: red;
+}
+/*General sibling combinator */
+/*This works for all*/
+
+h2~p{
+ font-weight: bold;
+
+} 
+/*Child Combinator*/
+section > p{
+    background-color: aqua;
+}
+/*  Descendant Combinator */
+section p{
+    font-family: monospace
+}   

@@ -1,0 +1,34 @@
+*{
+    font-style: italic;
+}
+div{
+    color: rgb(7, 7, 207);
+}
+
+p{
+    color: rgb(255, 0, 0);
+}
+.big{
+    font-size: 30pt;
+}
+.bold{
+    font-weight: bold;
+}
+#one{
+  background-color: black;
+}
+#twelve{
+   background-color: black;
+}
+#two{
+    padding: 30px;
+}
+input[disabled]{
+    font-size: 10pt;
+     height:100px; width: 300px;
+    
+}
+input[type="text"]{
+    font-size: 10pt;
+    height:100px; width: 300px;
+}

@@ -1,0 +1,24 @@
+.box{
+    height:80px;
+    width: 80px;
+    background-color: black;
+    padding: 10px;
+    color: darkslategray;
+
+}
+/*Pseudo Selectors*/
+.box:hover{
+    background-color: darkseagreen;
+    color: beige;
+    font-weight: bold;
+}
+.box:active{
+    height: 100px;
+    width: 100px;
+    font-size: 25pt;
+    background-color: chocolate;
+}
+input:focus{
+    font-size: 30pt;
+ width: 300px;
+}

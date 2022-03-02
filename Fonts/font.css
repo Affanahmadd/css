@@ -1,0 +1,16 @@
+#para1{
+    font-size: 30px; /*1vh=1/100 of window height*/
+}
+#para2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*In multiple font browser apply that font which is available if there is no other font then this will 
+    apply default font size*/
+}
+#para3{
+    font-style: italic;
+    font-weight: bold;
+}
+#para4{
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}

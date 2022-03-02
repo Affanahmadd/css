@@ -1,0 +1,9 @@
+div{
+    color: red;
+    font-size: 20pt;
+ }
+ p{
+     background-color: rgb(217, 217, 233);
+     font-size: 20pt;
+     border: 1px solid rgb(44, 43, 43);
+ }

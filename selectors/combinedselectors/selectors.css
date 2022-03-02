@@ -1,0 +1,23 @@
+li{
+    font-weight: bold;
+}
+ul>li{
+    color: blue;
+}
+ol>li{
+    color: red;
+}
+ul ol{
+    font-style: italic;
+}
+ol ul{
+    font-style: italic;
+}
+
+
+/*ol~ul{
+    background-color: green;
+}*/
+p+ul{
+    background-color: grey;
+}
